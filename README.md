@@ -5,7 +5,7 @@ A flutter app demonstrating state management using magic 8 ball
 ## Getting Started
 
 - git clone git@github.com:bethel-m/magic_8_ball
-- cd magic_*_ball
+- cd magic_8_ball
 - flutter pub get 
 - flutter run
 
